@@ -22,7 +22,7 @@ class Bot implements Comparable<Bot> {
 
 }
 
-public class Advent2018_23 {
+public class advent2018_23 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner s = new Scanner(new File("input.txt"));

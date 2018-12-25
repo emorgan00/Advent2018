@@ -21,7 +21,7 @@ class Marble {
 
 }
 
-public class Advent2018_9 {
+public class advent2018_09 {
 
 	public static void main(String[] args) {
 		Marble current = new Marble(0,null,null);
